@@ -9,5 +9,6 @@ Un blog hecho para los ejercicios del curso de git y github de platzi
 * Buenas practicas
 * Trucos locos 
 * Personalidades del profesor
+* Creado por platzi team
 
 Y como un recordatorio **Este readme.md forma parte de una practica del curso, a modo de chiste**. Diseñado como ejemplo
