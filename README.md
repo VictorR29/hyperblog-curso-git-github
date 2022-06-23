@@ -1,9 +1,9 @@
-#hiperblog-curso-git-github
+# hiperblog-curso-git-github
 Un blog hecho para los ejercicios del curso de git y github de platzi
-> Esl curso de Git y Github de Platzi es lo que me hacia falta para triplicar mis conocimientos, para así poder lanzarme a la industria
+> El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mis conocimientos, para así poder lanzarme a la industria
 > - anonimo
 
-##En este curso vemos de todo
+## En este curso vemos de todo
 * Flujos de trabajo
 * Todos los camndos de git
 * Buenas practicas
