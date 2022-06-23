@@ -11,5 +11,6 @@ Un blog hecho para los ejercicios del curso de git y github de platzi
 * Personalidades del profesor
 * Creado por platzi team
 * Incluye buenos ejemplos en S.O
+* Disponible ara todas las edades
 
 Y como un recordatorio **Este readme.md forma parte de una practica del curso, a modo de chiste**. Diseñado como ejemplo
